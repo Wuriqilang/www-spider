@@ -1,3 +1,13 @@
+#
+# fanyi.py
+# @author Wuriqilang
+# @description 
+# @created Sat Oct 13 2018 09:27:09 GMT+0800 (中国标准时间)
+# @last-modified Sat Oct 27 2018 19:51:58 GMT+0800 (中国标准时间)
+#
+
+
+
 # -*- coding: UTF-8 -*-
 from urllib import request
 import ssl
